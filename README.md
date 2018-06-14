@@ -1,1 +1,1 @@
-# photography-by-art
+#My design, javascript, rwd, flex
