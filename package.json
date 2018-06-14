@@ -1,0 +1,15 @@
+{
+    "name": "wizytowkajs",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+        "node-sass": "^4.9.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "compile:sass": "node-sass sass/main.scss css/style.css -w"
+    },
+    "author": "Malgorzata Jaskiewicz",
+    "license": "ISC",
+    "description": ""
+}
